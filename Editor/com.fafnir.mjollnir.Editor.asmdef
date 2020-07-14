@@ -1,0 +1,17 @@
+{
+    "name": "com.fafnir.mjollnir.Editor",
+    "references": [
+        "GUID:77e8482617e7ca5439b5140671f9d244"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

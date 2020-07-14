@@ -1,0 +1,17 @@
+{
+  "name": "com.fafnir.attila",
+  "displayName": "Attila",
+  "description": "Attila engine for semicolon's games",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "keywords": [
+    "Attila",
+    "Engine",
+    "Tools"
+  ],
+  "author": {
+    "name": "Serf Nicolas",
+    "email": "serf.nicolas@gmail.com"
+  },
+  "type": "library"
+}
