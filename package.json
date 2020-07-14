@@ -1,11 +1,11 @@
 {
-  "name": "com.fafnir.attila",
-  "displayName": "Attila",
-  "description": "Attila engine for semicolon's games",
+  "name": "com.fafnir.mjollnir",
+  "displayName": "Mjollnir",
+  "description": "Mjollnir engine for fafnir's games",
   "version": "1.0.0",
   "unity": "2019.4",
   "keywords": [
-    "Attila",
+    "Mjollnir",
     "Engine",
     "Tools"
   ],
